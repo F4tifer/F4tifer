@@ -16,16 +16,6 @@ I enjoy connecting **software with the real world** — measurement, control, da
 
 ---
 
-## 🛠️ Technologies & Tools
-
-- **Languages:** Python, Bash  
-- **HW / IoT:** ESP32, sensors, relays, Zigbee  
-- **Platforms:** Home Assistant, Linux, macOS  
-- **Tools:** Git, Docker, VS Code  
-- **Data:** CSV, logging, visualization  
-
----
-
 ## 🎯 My approach
 
 > “If I build something, I want to understand **why**, **how**, and **what data it produces**.”
